@@ -20,3 +20,5 @@ To teach the YOLO network, we used a personal database called Pashto, which cont
 In the image below, you can see examples of dataset images
 
 ![112](https://user-images.githubusercontent.com/76064876/139485790-3aba94ba-7347-4afb-8e14-8c682d40732b.JPG)
+
+<b>Among the datasets, 1,500 were used for training and 500 for system evaluation. </b>
