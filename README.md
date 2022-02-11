@@ -1,5 +1,7 @@
 # Detection-of-lumbar-weapon-pistol-by-deep-learning--With-YOLO-v5
 
+download paper :  http://pitc.jrl.police.ir/article_97719.html
+
 In this project, with the help of a personal dataset called Pashtaw, we have created a lumbar weapon detection system through surveillance cameras to identify armed individuals to increase the security of public places such as airports, banks, jewelry stores, etc.
 
 Our weapon detection system, due to the quality of the Pashtaw dataset, was able to detect small arms with an accuracy of %99/51 on validation data.
@@ -25,3 +27,4 @@ In the image below, you can see examples of dataset images
 
 # Contact us 
 amin.tohidifar@gmail.com
+
