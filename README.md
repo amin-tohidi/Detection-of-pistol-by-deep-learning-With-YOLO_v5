@@ -27,11 +27,9 @@ In the image below, you can see examples of dataset images
 
 <b>Among the datasets, 1,500 were used for training and 500 for system evaluation. </b>
 
-#Paper 
-paper :  http://pitc.jrl.police.ir/article_97719.html
+# Paper 
 
 download paper (1.43 MB ) :  http://pitc.jrl.police.ir/article_97719_3a0097328657fd607c204852d7361296.pdf
-
 
 # Contact us 
 amin.tohidifar@gmail.com
