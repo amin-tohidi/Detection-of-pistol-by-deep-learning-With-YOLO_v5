@@ -31,6 +31,9 @@ In the image below, you can see examples of dataset images
 
 download paper (1.43 MB ) :  http://pitc.jrl.police.ir/article_97719_3a0097328657fd607c204852d7361296.pdf
 
+Undoubtedly, the issue of increasing security in public places has always been the focus of researchers and relevant officials. Significant measures have been taken to increase security in places such as the metro, the airport and places of pilgrimage, including inspection systems, the installation of surveillance cameras and the deployment of an officer. But all of the above is done by human resources, which factors such as fatigue, distraction and many other factors affect the quality of monitoring. One of the security measures is carrying a weapon and pulling a gun. The solution presented in this article is to use deep learning algorithms in the form of weapons detection in surveillance cameras. In addition to monitoring public places, the proposed system can provide as much security as possible. Banks, goldsmiths, chain stores, and the like help As armed robbers prevent employees from informing the police, the automatic weapons detection system quickly contacts security officers if it detects a weapon. And provides information. In this study, two large and small versions of the YOLO_v5 deep neural network were used to detect the lumbar weapon. And the performance of these networks was compared with each other. Finally, the proposed system of automatic detection of pistols after training with the Pishtaw data set performs the detection operation of the pistol with 99.01% accuracy.
+
+
 # Contact us 
 amin.tohidifar@gmail.com
 
