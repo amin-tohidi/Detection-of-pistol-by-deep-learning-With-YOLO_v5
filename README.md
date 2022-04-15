@@ -2,7 +2,7 @@
 
 paper :  http://pitc.jrl.police.ir/article_97719.html
 
-ddownload paper (1.43 MB ) :  http://pitc.jrl.police.ir/article_97719_3a0097328657fd607c204852d7361296.pdf
+download paper (1.43 MB ) :  http://pitc.jrl.police.ir/article_97719_3a0097328657fd607c204852d7361296.pdf
 
 In this project, with the help of a personal dataset called Pashtaw, we have created a lumbar weapon detection system through surveillance cameras to identify armed individuals to increase the security of public places such as airports, banks, jewelry stores, etc.
 
